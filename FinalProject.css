@@ -1,0 +1,40 @@
+head {
+  margin-left: 20px;
+  background-color:#eef1f6;
+  font-family: monospace;
+  color: #1a1a1a;
+}
+body {
+margin-left: 300px;
+margin-right: 300px;
+  }
+h1 {
+    text-shadow: 1px 1px 1px gray;
+      text-decoration: underline;
+      float: left;
+      padding-left: 40px;
+}
+h3 {
+  text-align: left;
+  vertical-align: bottom;
+  color: #595959;
+  background-position: left;
+  margin: left;
+  padding-left: 40px;
+  padding-top: 100px;
+  position: relative;
+}
+hr {
+  border: 1px solid gray;
+}
+a {
+    color: #262626;
+}
+#pics{text-align: center;}
+#TopSide{
+
+}
+#ContentSide{
+  text-align: left;
+  width: 300px;
+}
